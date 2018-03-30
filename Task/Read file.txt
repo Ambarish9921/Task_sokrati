@@ -1,0 +1,10 @@
+Hello Team
+
+I have completed task, but some remaining content like
+
+1)Background image not set.
+2)responsive is not on all devices.
+
+hope so you are doing well !!! 
+
+Thank You.
